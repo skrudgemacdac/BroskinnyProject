@@ -43396,7 +43396,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 E"
+  m_text: Press E
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -46805,6 +46805,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 727628376}
     m_Modifications:
+    - target: {fileID: 662294679450101237, guid: 9cf6af4865d66e04a955537402d44d2c,
+        type: 3}
+      propertyPath: m_text
+      value: We need to get out of here...
+      objectReference: {fileID: 0}
     - target: {fileID: 662294679450101238, guid: 9cf6af4865d66e04a955537402d44d2c,
         type: 3}
       propertyPath: m_Pivot.x
@@ -47149,6 +47154,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2136540888812038491, guid: 8afdfca635b48d2418521d2d690d06f4,
+        type: 3}
+      propertyPath: m_text
+      value: F - flash on
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8afdfca635b48d2418521d2d690d06f4, type: 3}
