@@ -1,4 +1,0 @@
-repository "DeadVoxel@Django2004@cloud"
-  path "/"
-    br "/main"
-    co "/main"
